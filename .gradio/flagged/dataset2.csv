@@ -1,0 +1,4 @@
+Distance (km),Items in Order,Bill Subtotal,Total Amount,KPT Duration (minutes),Rider Wait Time (minutes),Predicted Rating,timestamp
+,,,,,,,2026-01-04 20:54:32.613858
+1,2,10,12,10,5,Low Rating 👎 (Confidence: 0.23),2026-01-04 21:11:17.464895
+2,2,35,28,18,3,Low Rating 👎 (Confidence: 0.31),2026-01-05 09:04:48.975442
